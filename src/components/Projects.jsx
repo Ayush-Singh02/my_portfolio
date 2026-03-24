@@ -119,7 +119,7 @@ const Projects = () => {
                     >
                       <FiVideo size={22} />
                     </motion.a>
-                  )}
+                  )}*/}
                   {project.live && (
                     <motion.a 
                       whileHover={{ scale: 1.1, y: -2 }}
@@ -132,7 +132,7 @@ const Projects = () => {
                     >
                       <FiExternalLink size={22} />
                     </motion.a>
-                  )}*/}
+                  )}
                 </div>
               </div>
               <div className="p-6 flex flex-col flex-grow">
