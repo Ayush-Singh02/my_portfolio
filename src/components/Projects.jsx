@@ -41,8 +41,8 @@ const PROJECTS_DATA = [
     description: 'A dedicated personal project showcasing web development skills, responsive design principles, and modern frontend architecture. Features a clean interface and optimized performance for a seamless user experience.',
     image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=600&h=400&fit=crop',
     tags: ['ReactJS', 'Web Development', 'UI/UX Design'],
-    github: 'https://github.com/Aditya2846',
-    live: 'https://adityaproject.vercel.app/',
+    github: 'https://github.com/Ayush-Singh02/my_portfolio',
+    live: 'https://singhayush-portfolio.vercel.app/',
   }
 ];
 
